@@ -1,6 +1,6 @@
 {
   "name": "@nomad-mystic/postcss-critical-css",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "PostCSS plugin to extract critical css.",
   "keywords": [
     "postcss",
